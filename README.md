@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArJonVar
+- 👋 Hi, I’m @Ariel
 - 👀 I’m interested in ... anything you can discuss passionately
 - 🌱 I’m currently learning ... Fullstack Web Development
 - 💞️ I’m looking to collaborate on ... Web Development
